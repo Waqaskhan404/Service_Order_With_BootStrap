@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+body {
+  background: #fff;
+  box-sizing: border-box;
+  margin: 0 auto;
+  font-family: "Roboto";
+}
+.border-top {
+  --bs-border-width: 2px;
+  --bs-border-color: #0000004a;
+}
+.main-heading {
+  color: #f77700;
+}
+.border {
+  --bs-border-width: 2px;
+  --bs-border-color: #0000004a;
+}
+.heading-font-weight {
+  font-weight: 700;
+}
+.w-98 {
+  width: 98% !important;
+}
+.h6-inner {
+  font-size: 13px !important;
+  font-weight: bold !important;
+}
+.p-inner {
+  font-size: 13px;
+  font-weight: 400 !important;
+}
+.finished {
+  color: lightgreen;
+}
+.signature-paragraph {
+  font-size: 15px !important;
+  font-weight: 500 !important;
+}
+.activity-line {
+  font-size: 15px;
+  margin-bottom: 3px;
+  font-style: italic;
+}
+.dot-line {
+  border-top-style: dotted;
+  width: 99%;
+  color: #00000029;
+}
+span {
+  font-weight: 700;
+}
+.activity-bottom-space {
+  padding-bottom: 20px;
+}
